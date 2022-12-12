@@ -1,0 +1,14 @@
+/Users/shukufa/Projects/12 dec class work/12 dec class work/obj/Debug/netcoreapp3.1/12 dec class work.csproj.AssemblyReference.cache
+/Users/shukufa/Projects/12 dec class work/12 dec class work/obj/Debug/netcoreapp3.1/12 dec class work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shukufa/Projects/12 dec class work/12 dec class work/obj/Debug/netcoreapp3.1/12 dec class work.AssemblyInfoInputs.cache
+/Users/shukufa/Projects/12 dec class work/12 dec class work/obj/Debug/netcoreapp3.1/12 dec class work.AssemblyInfo.cs
+/Users/shukufa/Projects/12 dec class work/12 dec class work/obj/Debug/netcoreapp3.1/12 dec class work.csproj.CoreCompileInputs.cache
+/Users/shukufa/Projects/12 dec class work/12 dec class work/bin/Debug/netcoreapp3.1/12 dec class work
+/Users/shukufa/Projects/12 dec class work/12 dec class work/bin/Debug/netcoreapp3.1/12 dec class work.deps.json
+/Users/shukufa/Projects/12 dec class work/12 dec class work/bin/Debug/netcoreapp3.1/12 dec class work.runtimeconfig.json
+/Users/shukufa/Projects/12 dec class work/12 dec class work/bin/Debug/netcoreapp3.1/12 dec class work.runtimeconfig.dev.json
+/Users/shukufa/Projects/12 dec class work/12 dec class work/bin/Debug/netcoreapp3.1/12 dec class work.dll
+/Users/shukufa/Projects/12 dec class work/12 dec class work/bin/Debug/netcoreapp3.1/12 dec class work.pdb
+/Users/shukufa/Projects/12 dec class work/12 dec class work/obj/Debug/netcoreapp3.1/12 dec class work.dll
+/Users/shukufa/Projects/12 dec class work/12 dec class work/obj/Debug/netcoreapp3.1/12 dec class work.pdb
+/Users/shukufa/Projects/12 dec class work/12 dec class work/obj/Debug/netcoreapp3.1/12 dec class work.genruntimeconfig.cache
